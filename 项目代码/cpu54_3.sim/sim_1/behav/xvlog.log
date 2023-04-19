@@ -1,0 +1,66 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/DIVU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DIVU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/DIV.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DIV
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/RegFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regfile
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/PC_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/NPC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NPC
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/MUX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/MULT.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MULTU4
+INFO: [VRFC 10-311] analyzing module MULTU8
+INFO: [VRFC 10-311] analyzing module MULTU16
+INFO: [VRFC 10-311] analyzing module MULTU32
+INFO: [VRFC 10-311] analyzing module MULT_
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/ll.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ll
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/inst_decode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module instr_decode
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/HILO.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HILO
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/EXT5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXT5
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/EXT18.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXT18
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/EXT16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXT16
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/DM_in_opera.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DM_in_opera
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/DIV_S_U.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DIV_
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/cp0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cp0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/change_inst.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module change_inst
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/ADD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ADD
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadocode/cpu54_3/cpu54_3.ip_user_files/ipstatic/dist_mem_gen_v8_0_10/simulation/dist_mem_gen_v8_0.v" into library dist_mem_gen_v8_0_10
+INFO: [VRFC 10-311] analyzing module dist_mem_gen_v8_0_10
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadocode/cpu54_3/cpu54_3.srcs/sources_1/ip/IMEM_t/sim/IMEM_t.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IMEM_t
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/DMEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DMEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/CPU31.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu
+INFO: [VRFC 10-2458] undeclared symbol zero, assumed default net type wire [C:/Users/javen/Desktop/54/CPU31.v:141]
+INFO: [VRFC 10-2458] undeclared symbol carry, assumed default net type wire [C:/Users/javen/Desktop/54/CPU31.v:141]
+INFO: [VRFC 10-2458] undeclared symbol negative, assumed default net type wire [C:/Users/javen/Desktop/54/CPU31.v:141]
+INFO: [VRFC 10-2458] undeclared symbol overflow, assumed default net type wire [C:/Users/javen/Desktop/54/CPU31.v:141]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/seg7x16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seg7x16
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/frediv.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module frediv
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/sccomp_dataflow.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sccomp_dataflow
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/javen/Desktop/54/top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivadocode/cpu54_3/cpu54_3.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

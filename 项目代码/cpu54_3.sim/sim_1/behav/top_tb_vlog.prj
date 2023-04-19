@@ -1,0 +1,35 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/DIVU.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/DIV.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/RegFile.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/PC_reg.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/NPC.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/MUX.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/MULT.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/ll.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/inst_decode.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/HILO.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/EXT5.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/EXT18.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/EXT16.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/DM_in_opera.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/DIV_S_U.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/cp0.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/change_inst.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/ALU.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/ADD.v"
+verilog dist_mem_gen_v8_0_10  "../../../cpu54_3.ip_user_files/ipstatic/dist_mem_gen_v8_0_10/simulation/dist_mem_gen_v8_0.v"
+verilog xil_defaultlib  "../../../cpu54_3.srcs/sources_1/ip/IMEM_t/sim/IMEM_t.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/DMEM.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/CPU31.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/seg7x16.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/frediv.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/sccomp_dataflow.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/top.v"
+verilog xil_defaultlib  "C:/Users/javen/Desktop/54/top_tb.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

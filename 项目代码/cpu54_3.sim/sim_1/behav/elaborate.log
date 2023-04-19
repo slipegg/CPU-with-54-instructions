@@ -1,0 +1,49 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto c964ae086c9c48d0b5df77beceeeca9a --debug typical --relax --mt 2 -L xil_defaultlib -L dist_mem_gen_v8_0_10 -L unisims_ver -L unimacro_ver -L secureip --snapshot top_tb_behav xil_defaultlib.top_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 11 for port a [C:/Users/javen/Desktop/54/sccomp_dataflow.v:62]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port ena [C:/Users/javen/Desktop/54/CPU31.v:147]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port ena [C:/Users/javen/Desktop/54/sccomp_dataflow.v:68]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port cs [C:/Users/javen/Desktop/54/top.v:16]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/javen/Desktop/54/frediv.v" Line 1. Module frediv doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/javen/Desktop/54/frediv.v" Line 1. Module frediv doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.frediv
+Compiling module dist_mem_gen_v8_0_10.dist_mem_gen_v8_0_10(C_FAMILY="a...
+Compiling module xil_defaultlib.IMEM_t
+Compiling module xil_defaultlib.NPC
+Compiling module xil_defaultlib.instr_decode
+Compiling module xil_defaultlib.change_inst
+Compiling module xil_defaultlib.ll
+Compiling module xil_defaultlib.EXT18
+Compiling module xil_defaultlib.ADD
+Compiling module xil_defaultlib.MUX
+Compiling module xil_defaultlib.PC_reg
+Compiling module xil_defaultlib.EXT5
+Compiling module xil_defaultlib.EXT16
+Compiling module xil_defaultlib.regfile
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.HILO
+Compiling module xil_defaultlib.cp0
+Compiling module xil_defaultlib.MULTU4
+Compiling module xil_defaultlib.MULTU8
+Compiling module xil_defaultlib.MULTU16
+Compiling module xil_defaultlib.MULTU32
+Compiling module xil_defaultlib.MULT_
+Compiling module xil_defaultlib.DM_in_opera
+Compiling module xil_defaultlib.DIV
+Compiling module xil_defaultlib.DIVU
+Compiling module xil_defaultlib.DIV_
+Compiling module xil_defaultlib.cpu
+Compiling module xil_defaultlib.DMEM
+Compiling module xil_defaultlib.sccomp_dataflow
+Compiling module xil_defaultlib.seg7x16
+Compiling module xil_defaultlib.top
+Compiling module xil_defaultlib.top_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot top_tb_behav
